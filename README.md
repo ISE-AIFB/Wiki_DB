@@ -15,3 +15,5 @@ Here you will find additional files, data for the ReDeFining Type Information in
 —— contains the type subsumption relations found via our isomorphic schema matching approach
 - Wikidata_TypeSubsumption_Prop_percent.txt
 —— contains the distribution of the properties per class sorted based on the percentage of usage
+- WikidataEntities_with_diffDBClass
+—— contains list of entities which are associated to a DBpedia class which is not same as the equivalent class of the Wikidata class
